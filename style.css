@@ -1,0 +1,35 @@
+h1{
+    color: #E6E6FA; 
+    text-align: center;
+}
+
+
+
+.img {
+    margin-left: 540px;
+    width: 100px;
+    height: 100px;
+    padding-left: 200px;
+}
+
+h2{
+    color: #D8BFD8; 
+    text-align: center;
+}
+
+h3{
+    color: #D8BFD8; 
+    text-align: center;
+}
+
+.DodgerBlue {
+    color: black;   
+}
+
+
+   
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+
